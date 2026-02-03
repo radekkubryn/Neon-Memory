@@ -1,7 +1,5 @@
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/9d95071e-1d1d-4da0-b585-d55a071c456b" />
 
-Oczywiście, oto przygotowany opis gry w języku angielskim, idealnie skrojony pod standardy profesjonalnego repozytorium na GitHubie.
-
 Neon Memory 🧠✨
 Welcome to Neon Memory! Immerse yourself in a vibrant, fast-paced memory challenge set in a futuristic, neon-drenched atmosphere. Test your brain, sharpen your focus, and beat the clock! 🚀
 
