@@ -52,5 +52,3 @@ The build folder is now ready to be deployed!
 
 Author 👤
 Created with passion by radekkubryn. Feel free to check out my other projects on GitHub!
-
-Czy chciałbyś, abym dodał do tego opisu sekcję z technologiami (np. React, CSS Modules), których użyłeś w projekcie?
